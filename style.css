@@ -1,0 +1,27 @@
+body{
+    background-color: limegreen;
+    border-width: 5px;
+    border-style: solid;
+    border-color: purple;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h1{
+    text-align: center;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+    border-bottom-color: purple;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+img{
+    border-radius: 5%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: purple;
+}
+
